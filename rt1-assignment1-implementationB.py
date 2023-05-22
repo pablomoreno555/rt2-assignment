@@ -1,3 +1,5 @@
+# Code developed by Miguel Angel Sempere Vicente
+
 from __future__ import print_function
 
 import time

@@ -10,7 +10,7 @@ This repository contains the three parts of the course assignment:
 
 - Jupyter Notebook to interact with the simulation of the second assignment of RT1:
   
-  https://github.com/pablomoreno555/rt2-assignment/blob/main/RT2_Assignment_PabloMoreno.ipynb
+  https://github.com/pablomoreno555/rt2-assignment/blob/main/JupyterNotebook.ipynb
 
 - Statistical Analysis on the first assignment of RT1:
   
